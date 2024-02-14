@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(226, 226, 7);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+
+}
+.div1{
+    background-color: white;
+    height: 420px;
+    width: 350px;
+    border-radius: 5px;
+    box-shadow: 10px 10px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+#peg{
+    height: 160px;
+    width: 350px;
+    border-radius: 5px;
+}
+h1{
+    background-color: yellow;
+    font-size: medium;
+    width: 70px;
+}
+.div3{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+#enoch{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
